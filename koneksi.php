@@ -7,8 +7,8 @@ $database="phpregmalam";
 
 $koneksi=mysqli_connect($server,$user,$password,$database);
 
-if ($koneksi){
+/*if ($koneksi){
 	echo "Koneksi sukses";
 }else{
 	echo "koneksi gagal";
-}
+}*/

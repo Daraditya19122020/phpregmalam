@@ -6,7 +6,7 @@ $query_view=mysqli_query($koneksi,"select * from kategori");
 <table class="table-bordered" border="4">
 	<tr>
 		<td>No</td>
-		<td>Nama</td>
+		<td>Kategori</td>
 	</tr>
 <?php
 $no=1;
